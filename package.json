@@ -1,5 +1,5 @@
 {
-  "name": "pomodoro",
+  "name": "timer-app",
   "version": "1.0.0",
   "description": "A pomodoro timer application built with JavaScript",
   "main": "main.js",
